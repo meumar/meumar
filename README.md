@@ -1,6 +1,6 @@
 # Hi, I'm Umar Sheik 👋
 
-I'm a passionate Full-Stack Web Developer with a keen interest in building scalable and user-centric web applications. With expertise in technologies like Vue.js, Node.js, React, and MongoDB, I enjoy crafting both robust back-end architectures and intuitive front-end interfaces.
+I'm a passionate Full-Stack Web Developer with a keen interest in building scalable and user-centric web applications. With expertise in technologies like Solana, Vue.js, Node.js, React, and MongoDB, I enjoy crafting both robust back-end architectures and intuitive front-end interfaces.
 
 ## 🚀 What I Do
 - **Full-Stack Development:** Building end-to-end web applications with a focus on performance and user experience.
